@@ -1,6 +1,8 @@
 ## iBeacon Finder iOS Demo
 This is a sample iOS app skeleton for interacting with iBeacons in Swift. Given a fixed iBeacon proximity UUID (provided by the beacon manufacturer) this app listens for iBeacons in both monitoring and ranging mode. Monitoring and ranging events are printed to the console. This app is intended to demonstrate the iBeacon programming model. There is no meaningful UI, all output is printed to the console.
 
+All relevant code is in `ViewController.swift`.
+
 ## Sample Output
 The console output looks like this
 
